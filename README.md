@@ -1,4 +1,4 @@
-## 👋🏻 Hello, I'm [Your Name]
+## 👋🏻 Hola!!
 
 Hey there! I'm Siva Anand, a passionate PHP Developer on a journey to expand my horizons in data analysis and cybersecurity. 👨‍💻🌐
 
@@ -26,5 +26,5 @@ I'm passionate about utilizing the power of data and ensuring digital security. 
 
 ### 👋🏻 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile-link/](https://www.linkedin.com/in/sivaanandedakattu/)https://www.linkedin.com/in/sivaanandedakattu/])
+- [LinkedIn](https://www.linkedin.com/in/sivaanandedakattu/)
 
